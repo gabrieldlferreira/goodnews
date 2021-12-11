@@ -7,3 +7,6 @@ $('.slider-principal').slick({
     autoplay: true,
     autoplaySpeed: 2000 //Tempo do slide
   });
+
+
+  object.addEventListener("click", myScript);
